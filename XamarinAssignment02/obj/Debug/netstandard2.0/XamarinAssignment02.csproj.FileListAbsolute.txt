@@ -1,0 +1,12 @@
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\bin\Debug\netstandard2.0\XamarinAssignment02.deps.json
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\bin\Debug\netstandard2.0\XamarinAssignment02.dll
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\bin\Debug\netstandard2.0\XamarinAssignment02.pdb
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\XamarinAssignment02.csprojAssemblyReference.cache
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\XamarinAssignment02.csproj.CoreCompileInputs.cache
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\XamarinAssignment02.AssemblyInfoInputs.cache
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\XamarinAssignment02.AssemblyInfo.cs
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\XamarinAssignment02.dll
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02\obj\Debug\netstandard2.0\XamarinAssignment02.pdb

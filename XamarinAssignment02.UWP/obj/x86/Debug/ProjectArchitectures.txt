@@ -1,0 +1,1 @@
+C:\Users\caspe\source\repos\XamarinAssignment02\XamarinAssignment02\XamarinAssignment02.UWP\XamarinAssignment02.UWP.csproj;x86

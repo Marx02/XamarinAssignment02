@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinAssignment02.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        
+        
+        
+        <Entry x:Name="Ttsentry" Placeholder="Insert text here"/>
+        <Button x:Name="ttsbutton" Text="Press for TTS"/>
+
+        <Button x:Name="mapbutton" Text="Press to see your current location on Maps"/>
+
+        
+        <Button x:Name="vibrateButton" Text="LET'S VIBRATE!"/>
+
+        <Button x:Name="flButton" Text="Make a quick flash with the blitz"/>
+
+    </StackLayout>
+
+</ContentPage>
